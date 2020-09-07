@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1h7F1Fgw6Edf9qiuPZ2sFueYsNt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,13 +46,45 @@
       <updated>1599354007844</updated>
       <workItem from="1599354009498" duration="4844000" />
       <workItem from="1599497014965" duration="1015000" />
+      <workItem from="1599521576073" duration="368000" />
     </task>
+    <task id="LOCAL-00001" summary="subida documento">
+      <created>1599521792699</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599521792699</updated>
+    </task>
+    <task id="LOCAL-00002" summary="subida documento">
+      <created>1599521873153</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599521873153</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="subida documento" />
+    <option name="LAST_COMMIT_MESSAGE" value="subida documento" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1599521871236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1599521871236" />
+    <state x="647" y="310" key="Github.ShareDialog" timestamp="1599521737338">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1599521737338" />
+    <state x="581" y="110" key="Github.UntrackedFilesDialog" timestamp="1599521747016">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="581" y="110" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1599521747016" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1599497051670">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
